@@ -1,0 +1,16 @@
+{
+  "preferences": {
+    "coworkWebSearchEnabled": true,
+    "sidebarMode": "chat",
+    "coworkScheduledTasksEnabled": false
+  },
+  "mcpServers": {
+    "file-manager": {
+      "command": "C:\\Users\\koushikvarma.venkata\\Downloads\\claude_connector_trail\\venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\koushikvarma.venkata\\Downloads\\claude_connector_trail\\mcp-server\\mcp_server.py"
+      ],
+      "cwd": "C:\\Users\\koushikvarma.venkata\\Downloads\\claude_connector_trail\\mcp-server"
+    }
+  }
+}
