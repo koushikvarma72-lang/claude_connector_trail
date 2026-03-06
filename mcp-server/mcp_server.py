@@ -18,3 +18,4 @@ register_system_tools(mcp)
 if __name__ == "__main__":
     print(f"Starting MCP server - Rate limit: {RATE_LIMIT} req/min")
     mcp.run(transport="stdio")
+
